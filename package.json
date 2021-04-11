@@ -1,31 +1,32 @@
 {
   "name": "rayhanadev",
-  "version": "1.0.1",
-  "description": "A small personal card, made to run with npx.",
+  "version": "1.0.0",
+  "description": "A small npx card for me :D.",
   "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
+  "directories": {
+    "lib": "lib"
   },
-  "bin": "./index.js",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "prettyjson": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RayhanADev/NPX-Card.git"
   },
   "keywords": [
-    "personal",
+    "rayhandev",
     "npx",
-    "card",
-    "rayhanadev",
-    "furrets"
+    "cli"
   ],
   "author": "RayhanADev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RayhanADev/NPX-Card/issues"
   },
-  "homepage": "https://github.com/RayhanADev/NPX-Card#readme",
-  "dependencies": {
-    "minimist": "^1.2.5",
-    "prettyjson": "^1.2.1"
-  }
+  "homepage": "https://github.com/RayhanADev/NPX-Card#readme"
 }
