@@ -1,0 +1,31 @@
+{
+  "name": "rayhanadev",
+  "version": "1.0.0",
+  "description": "A small personal card, made to run with npx.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayhanADev/NPX-Card.git"
+  },
+  "keywords": [
+    "personal",
+    "npx",
+    "card",
+    "rayhanadev",
+    "furrets"
+  ],
+  "author": "RayhanADev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayhanADev/NPX-Card/issues"
+  },
+  "homepage": "https://github.com/RayhanADev/NPX-Card#readme",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "prettyjson": "^1.2.1"
+  }
+}
