@@ -1,6 +1,6 @@
 {
   "name": "rayhanadev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small personal card, made to run with npx.",
   "main": "index.js",
   "scripts": {
